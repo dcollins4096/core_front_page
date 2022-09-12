@@ -1,0 +1,23 @@
+body {
+  background-color: #ceb888;
+}
+
+div.foo {
+    border: 3px;
+border-style: solid;
+border-radius: 10px;
+border-color: #782f40;
+}
+div.moo {
+    border: 5px;
+border-style: solid;
+border-radius: 10px;
+border-color: #782f40;
+}
+div.foosquare {
+    border: 3px;
+border-style: solid;
+border-color: #782f40;
+}
+
+video.scale-with-grid {max-width: 30%;height: auto; }
